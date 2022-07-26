@@ -164,9 +164,9 @@ img {
     width: 1200px;
     background-color: #3882F6;
     padding: 16px 16px;
-    margin: 80px;
+    margin: auto;
     border-radius: 8px; 
-    margin-left: 340px;   
+    margin-bottom: 36px;   
 }
 
 .cardh {
